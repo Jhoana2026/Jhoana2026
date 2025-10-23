@@ -70,8 +70,10 @@ Actualmente estoy aprendiendo sobre:
 
 ### 💬 ¡Explora mis repositorios y acompaña mi proceso de aprendizaje!
 
+<p align="center">
+  <img src="[https://github.com/Jhoana2026/Jhoana2026/blob/main/mi_imagen.png](https://github.com/user-attachments/assets/8491916d-ddb0-46c8-942d-15feb997fd09)" alt="Anime" width="250" style="border-radius:15px;">
+</p>
 
-![490e086bda15d06430128446daf184a5](https://github.com/user-attachments/assets/8491916d-ddb0-46c8-942d-15feb997fd09)
 
 
 ---
